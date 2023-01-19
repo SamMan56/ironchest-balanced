@@ -1,3 +1,13 @@
+Iron Chests Rebalanced
+=
+I'd like to add this mod to a pack
+
+I receive complaints about how base Iron Chests makes storage "too compact"
+
+All chests are nerfed to contain 27 slots. In return recipes are significantly cheaper.
+
+Original README:
+
 Iron Chests [![Curseforge](http://cf.way2muchnoise.eu/full_iron-chests_downloads.svg)](https://minecraft.curseforge.com/projects/iron-chests) [![Curseforge](http://cf.way2muchnoise.eu/versions/For%20MC_iron-chests_all.svg)](https://minecraft.curseforge.com/projects/iron-chests)
 ===========
 
