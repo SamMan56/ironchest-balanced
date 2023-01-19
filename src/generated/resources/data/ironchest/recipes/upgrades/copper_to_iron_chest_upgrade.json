@@ -14,9 +14,6 @@
       "recipe": {
         "type": "minecraft:crafting_shaped",
         "key": {
-          "G": {
-            "tag": "forge:glass"
-          },
           "M": {
             "tag": "forge:ingots/iron"
           },
@@ -25,9 +22,9 @@
           }
         },
         "pattern": [
-          "MGM",
-          "GSG",
-          "MGM"
+          " M ",
+          " S ",
+          "   "
         ],
         "result": {
           "item": "ironchest:copper_to_iron_chest_upgrade"

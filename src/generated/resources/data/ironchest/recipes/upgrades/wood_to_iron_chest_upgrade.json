@@ -9,9 +9,9 @@
     }
   },
   "pattern": [
-    "MMM",
-    "MPM",
-    "MMM"
+    " M ",
+    " P ",
+    "   "
   ],
   "result": {
     "item": "ironchest:wood_to_iron_chest_upgrade"

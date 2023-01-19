@@ -22,9 +22,9 @@
           }
         },
         "pattern": [
-          "MMM",
-          "MSM",
-          "MMM"
+          " M ",
+          " S ",
+          "   "
         ],
         "result": {
           "item": "ironchest:wood_to_copper_chest_upgrade"

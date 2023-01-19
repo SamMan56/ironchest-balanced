@@ -12,22 +12,14 @@
         }
       ],
       "recipe": {
-        "type": "minecraft:crafting_shaped",
-        "key": {
-          "G": {
-            "tag": "forge:glass"
-          },
-          "M": {
+        "type": "minecraft:crafting_shapeless",
+        "ingredients": [
+          {
             "tag": "forge:ingots/iron"
           },
-          "S": {
+          {
             "item": "ironchest:copper_chest"
           }
-        },
-        "pattern": [
-          "MGM",
-          "GSG",
-          "MGM"
         ],
         "result": {
           "item": "ironchest:iron_chest"

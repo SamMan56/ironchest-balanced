@@ -1,7 +1,7 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "key": {
-    "M": [
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    [
       {
         "item": "minecraft:dirt"
       },
@@ -12,14 +12,9 @@
         "item": "minecraft:podzol"
       }
     ],
-    "S": {
+    {
       "tag": "forge:chests/wooden"
     }
-  },
-  "pattern": [
-    "MMM",
-    "MSM",
-    "MMM"
   ],
   "result": {
     "item": "ironchest:dirt_chest"

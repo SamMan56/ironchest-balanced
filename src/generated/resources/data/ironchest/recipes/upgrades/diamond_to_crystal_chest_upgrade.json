@@ -1,17 +1,17 @@
 {
   "type": "minecraft:crafting_shaped",
   "key": {
+    "D": {
+      "tag": "forge:gems/diamond"
+    },
     "G": {
       "tag": "forge:glass"
-    },
-    "M": {
-      "item": "minecraft:obsidian"
     }
   },
   "pattern": [
-    "GGG",
-    "GMG",
-    "GGG"
+    " G ",
+    " D ",
+    "   "
   ],
   "result": {
     "item": "ironchest:diamond_to_crystal_chest_upgrade"

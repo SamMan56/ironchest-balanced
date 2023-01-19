@@ -1,17 +1,12 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "key": {
-    "G": {
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
       "tag": "forge:glass"
     },
-    "S": {
+    {
       "item": "ironchest:diamond_chest"
     }
-  },
-  "pattern": [
-    "GGG",
-    "GSG",
-    "GGG"
   ],
   "result": {
     "item": "ironchest:crystal_chest"
