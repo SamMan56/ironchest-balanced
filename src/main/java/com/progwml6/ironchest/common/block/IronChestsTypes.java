@@ -30,12 +30,12 @@ import java.util.Locale;
 
 public enum IronChestsTypes implements StringRepresentable {
 
-  IRON(54, 9, 184, 222, new ResourceLocation("ironchest", "textures/gui/iron_container.png"), 256, 256),
-  GOLD(81, 9, 184, 276, new ResourceLocation("ironchest", "textures/gui/gold_container.png"), 256, 276),
-  DIAMOND(108, 12, 238, 276, new ResourceLocation("ironchest", "textures/gui/diamond_container.png"), 256, 276),
-  COPPER(45, 9, 184, 204, new ResourceLocation("ironchest", "textures/gui/copper_container.png"), 256, 256),
-  CRYSTAL(108, 12, 238, 276, new ResourceLocation("ironchest", "textures/gui/diamond_container.png"), 256, 276),
-  OBSIDIAN(108, 12, 238, 276, new ResourceLocation("ironchest", "textures/gui/diamond_container.png"), 256, 276),
+  IRON(27, 9, 184, 168, new ResourceLocation("ironchest", "textures/gui/container.png"), 256, 256),
+  GOLD(27, 9, 184, 168, new ResourceLocation("ironchest", "textures/gui/container.png"), 256, 256),
+  DIAMOND(27, 9, 184, 168, new ResourceLocation("ironchest", "textures/gui/container.png"), 256, 256),
+  COPPER(27, 9, 184, 168, new ResourceLocation("ironchest", "textures/gui/container.png"), 256, 256),
+  CRYSTAL(27, 9, 184, 168, new ResourceLocation("ironchest", "textures/gui/container.png"), 256, 256),
+  OBSIDIAN(27, 9, 184, 168, new ResourceLocation("ironchest", "textures/gui/container.png"), 256, 256),
   DIRT(1, 1, 184, 184, new ResourceLocation("ironchest", "textures/gui/dirt_container.png"), 256, 256),
   WOOD(0, 0, 0, 0, null, 0, 0);
 
